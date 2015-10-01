@@ -1,6 +1,6 @@
 # 2do
 
-![image](img/Icon-58.png)
+![image](img/Icon-120.png)
 
 **2do app support. Please use the menu to the right of "Issues" when you have any question.** 
 
