@@ -2,14 +2,19 @@
 
 ![image](img/Icon-120.png)
 
-**Download:** [https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8)
-
 **2do app support. Please use the menu to the right of "Issues" when you have any question.** 
 
 **2do app 技术支持。有任何问题，请使用右边菜单 "Issues" 留言。** 
 
-**Keywords:** 
+
+**Download:**  
+[https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8)
+
+**Keywords:**   
 2do, todo, 代办记事, todolist, 效率, efficiency, 工具, tool, 记事, note, notes
+
+**Screenshot:**   
+[screenshot](./screenshot.md)
 
 **For iPhone & iPad**
 
