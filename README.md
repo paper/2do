@@ -10,10 +10,13 @@
 **Download:**  
 [https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8)
 
-**Keywords:**   
+**中文下载地址：**  
+[https://itunes.apple.com/cn/app/2do/id1043996001?mt=8](https://itunes.apple.com/cn/app/2do/id1043996001?mt=8)
+
+**Keywords:**  
 2do, todo, 代办记事, todolist, 效率, efficiency, 工具, tool, 记事, note, notes
 
-**Screenshot:**   
+**Screenshot（截图）:**   
 [screenshot](./screenshot.md)
 
 **For iPhone & iPad**
@@ -79,7 +82,7 @@ You can finish your affairs at ease without unmeant touch. 
 2. 下拉新建分类或事件
 3. 右滑完成或复原事件
 4. 左滑删除分类或事件
-5. 双击修改事件
+5. 双击修改分类或事件
 6. 长按排序分类或事件
 7. 新增分类记忆功能
 
