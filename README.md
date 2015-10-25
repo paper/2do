@@ -1,11 +1,10 @@
-# 2do
+# 2do - Simple but not simple tasks and to-do lists
 
 ![image](img/Icon-120.png)
 
 **2do app support. Please use the menu to the right of "Issues" when you have any question.** 
 
 **2do app 技术支持。有任何问题，请使用右边菜单 "Issues" 留言。** 
-
 
 **Download:**  
 [https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1043996001&mt=8)
@@ -20,7 +19,6 @@
 [screenshot](./screenshot.md)
 
 **For iPhone & iPad**
-
 
 # App Introduce
 
